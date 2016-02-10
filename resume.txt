@@ -1,1 +1,5 @@
 Git Intro Class
+
+Changes made after initial commit.
+
+Another change.
